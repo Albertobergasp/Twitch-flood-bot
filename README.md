@@ -7,4 +7,4 @@ the usage of this script is: python twfloodchannel.py <channel name> <delay> <me
 want to use the whisper/privatemessage script? same usage: python twfloodwhisper.py <username> <delay> <message>
   
  # How do i add bots on the list?
- just go to twitchapps.com/tmi then click "Connect with twitch" and add the oauth password to the list
+ just go to twitchapps.com/tmi then click "Connect with twitch" and add the oauth password to the tokens.txt file
