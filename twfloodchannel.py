@@ -88,10 +88,7 @@ while True:
                 # Sets the username variable to the actual username
                 usernamesplit = string.split(parts[1], "!")
                 username = usernamesplit[0]
-               
-                # Only works after twitch is done announcing stuff (MODT = Message of the day)
-        if MODT:
-            print username + ": " + message
+              
 					
 					
  
