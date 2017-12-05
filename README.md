@@ -3,6 +3,7 @@ a simple script that uses twitch OAuths and logs in the Twitch irc server to the
 
 # How to use it?
 the usage of this script is: python twfloodchannel.py (channel name) (delay) (message)
+how to stop it? press ctrl + \
 
 want to use the whisper/privatemessage script? same usage: python twfloodwhisper.py (username) (delay) (message)
   
