@@ -9,6 +9,6 @@ want to use the whisper/privatemessage script? same usage: python twfloodwhisper
  # How do i add bots on the list?
  just go to https://twitchapps.com/tmi/ then click "Connect with twitch" and add the oauth password to the tokens.txt file
  
- #Feel free to join our discord or telegram
+ # Feel free to join our discord or telegram
  discord: https://discord.gg/EFFT2Mj
  telegram: https://t.me/tfchat
