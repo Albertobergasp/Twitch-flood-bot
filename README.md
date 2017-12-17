@@ -16,6 +16,8 @@ to use the script:
 - drag the script on the terminal and then put the parameters.
 example: 
 C:/bla/bla/bla/twfloodchannel.py (channel) (delay) (message)
+- want to use the whisper flood script? drag the whisper script and put parameters
+- example: C:/bla/bla/bla/twfloodwhisper.py (username) (delay) (message)
   
  # How do i add bots on the list?
  just go to https://twitchapps.com/tmi/ then click "Connect with twitch" and add the oauth password to the tokens.txt file
